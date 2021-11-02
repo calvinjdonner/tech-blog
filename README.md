@@ -16,6 +16,8 @@
   ## Description 📜
    A CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well!
 
+   ![](./screenshot.png)
+
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -23,10 +25,6 @@
   - [Questions](#questions)
 
   ## Installation 💾
-   
-  `npm run test`
-
-  `npm run seed`
 
   `npm start server`
 
